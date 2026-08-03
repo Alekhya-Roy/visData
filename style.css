@@ -1,0 +1,35 @@
+body{
+
+    background:#f5f5f5;
+}
+
+h1{
+    text-align:center;
+}
+
+#user-container{
+    display:grid;
+    gap:20px;
+}
+
+
+
+.user-card{
+    background:white;
+    padding:20px;
+    
+}
+
+.user-card img{
+
+    width:100px;
+
+    border-radius:50%;
+    display:block;
+    margin:auto;
+
+}
+
+.user-card h2{
+    text-align:center;
+}
